@@ -1,80 +1,92 @@
-# 🌟 Advanced MERN AI Finance SaaS Platform - Finora
+<h1 align="center">🌟 Advanced MERN AI Finance SaaS Platform</h1>
 
-> This code, whether in parts or whole, is licensed for commercial use **only with a license**. It is **free for personal use**.
-> 👉 [Click here to obtain license](https://techwithemma.gumroad.com/l/huytmd) and 👉 [here to learn more](https://github.com/TechWithEmmaYT/Advanced-MERN-AI-Financial-SaaS-Platform/blob/main/TECHWITHEMMA-LICENSE.md)
-
-## ❤️ Support the Channel
-
-Love this project? Here’s how you can support:
-
-* ☕ [Buy Me a Coffee](https://buymeacoffee.com/techwithemmaofficial)
-* 🌟 Star this repo
-* 🎥 [Subscribe on YouTube](https://tinyurl.com/subcribe-to-techwithEmma)
+<p align="center">
+A modern, full-featured, AI-powered Finance Management SaaS built with <b>MERN + TypeScript</b>.
+<br/>
+Featuring AI Receipt Scanning, Analytics, Recurring Transactions, CSV Import, Monthly Reports & more.
+</p>
 
 ---
 
-## 🗝️ Key Features: 👇
+## 🔥 Tech Stack Badges
 
-* 🔐 Authentication (Email + Password with JWT)
-* 🏢 Create & Edit Transactions
-* 📤 Upload & Scan Receipt with AI
-* 📈 Beautiful Advanced Analytics  (MongoDB Aggregate Pipeline)
-* 📊 Expenses Breakdown Pie Chart
-* 📈 Income & Expense Line Chart
-* 📅 Filter by Date Ranges — like Last 30 Days etc.
-* ♻️ Recurring Transactions with Cron Job
-* 📄 Auto-Generated Monthly Report (Emailed to User)
-* 📥 CSV transaction Import
-* 🔍 Filter & Search
-* 📅 Pagination
-* 🗑️ Bulk Delete
-* ➕ Duplicate Transactions
-* 🧑‍💼 Upload Profile Photo (Cloudinary)
-* 🌐 Built with MERN Stack (Node.js, MongoDB, React, TypeScript)
-
-- 💳 [Premium] Upgrades via Stripe — Free Trial, Monthly & Yearly Plans, Easy Plan Switching 👉 [Get It Here](https://techwithemma.gumroad.com/l/gasvc)
-
-
-
-## 🔧 How to Use This Project
-
-### 📺 Step 1: Watch the Complete Full Course on YouTube
-
-> Learn how it all works, including the folder structure, integration, AI config, and more.
-> 👉 [Watch the Course](https://www.youtube.com/watch?v=2S7Y2wewF6I)
-
-
-
-### 💻 Step 2: Run It Locally, Setup Video, Live Preview
-
-> Want to run this project on your own machine? We've got you covered:
-👉 [Setup & Live Preview Link](https://techwithemma.gumroad.com/l/nphhyz)
-
-
-
-### 🚀 [Step 3]: Get the Extended Version — Stripe Payment Video (Free Trial), Full Source Code, Deployment & More.
-
-This is the missing piece — the Stripe payment that powers your SaaS.
-👉 [Get the Extended Version](https://techwithemma.gumroad.com/l/gasvc)
-
-* Free Trial + Monthly & Yearly Plan
-* Switch between Monthly ↔️ Yearly Plan
-* Full Stripe Integration & Webhooks
-* Setup Video (Run locally)
-* Complete Full Source Code
-* Plus Support
----
-
-## 📜 License Information
-
-A paid license is required for commercial use. To obtain a commercial license, please visit 👉 [Here](https://techwithemma.gumroad.com/l/huytmd)
-
-For more details about license, please refer to the [TECHWITHEMMA-LICENSE.md](https://github.com/TechWithEmmaYT/Advanced-MERN-AI-Financial-SaaS-Platform/blob/main/TECHWITHEMMA-LICENSE.md).
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
 ---
 
-# 📺 Subscribe for More Projects
+# 👨‍💻 Author
 
-If you find this helpful, support by subscribing and sharing:
+**Magraj Jakhar**  
+B.Tech – Computer Science & Engineering  
+Indian Institute of Information Technology, Una  
 
-🔗 [https://tinyurl.com/subcribe-to-techwithEmma](https://tinyurl.com/subcribe-to-techwithEmma)
+📞 +91-8302596591  
+📧 jakharmagraj71@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/magraj-jakhar-1a192b291  
+🔗 GitHub: https://github.com/Magraj71  
+🔗 LeetCode: https://leetcode.com/u/Magraj_Jakhar/  
+🔗 Portfolio: https://portfolio-sandy-alpha-70.vercel.app/
+
+---
+
+# 🚀 Features
+
+### 🔐 Authentication  
+- Secure JWT-based Auth  
+- Login & Registration  
+- Protected Routes  
+
+### 💸 Transactions  
+- Add, Edit, Delete transactions  
+- AI-powered Receipt OCR (Auto-Fill)  
+- Search, Filter & Pagination  
+- CSV Import  
+- Duplicate & Bulk Delete  
+
+### 📊 Analytics  
+- Expense Breakdown Pie Chart  
+- Income vs Expense Line Chart  
+- Monthly Overview  
+- Aggregated MongoDB Insights  
+
+### 🔁 Automations  
+- Recurring Transactions (Cron Jobs)  
+- Monthly Email Reports  
+
+### 👤 User Profile  
+- Cloudinary Profile Image Upload  
+- Edit User Details  
+
+### 🧩 SaaS Architecture  
+- Stripe-ready structure  
+- TypeScript codebase  
+- Production-level Backend APIs  
+
+---
+
+# 📸 Screenshots
+
+### 🏠 Dashboard
+![Dashboard](./screenshots/deshboard.png)
+
+### ➕ Add Transaction
+![Add Transaction](./screenshots/newtransaction.png)
+
+### 📄 All Transactions
+![All Transactions](./screenshots/alltransaction.png)
+
+---
+
+# 📦 Installation
+
+### Clone the Repository  
+```bash
+git clone https://github.com/Magraj71/Ai-financial-saas-platform
+cd Ai-financial-saas-platform
